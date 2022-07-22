@@ -8,3 +8,5 @@ hg19_knownGene_exon.nochr.bed.gz: UCSC Genes, knownGene, exon only, remove chr p
 mm10_knownCanonical.bed: GENCODE VM23, knownCanonical with strand
 
 TFs_Ensembl_v_1.01.txt: known transcription factors in Ensembl ID
+
+GRCh38_MANE_*.bed.gz: MANE select transcript, specific region extracted from UCSC table browser
